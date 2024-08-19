@@ -44,7 +44,6 @@ I am excited about contributing to groundbreaking projects and driving digital t
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gopakumar-ka/)
-- 
 - [Email](mailto:gopak9145@gmail.com)
 
 
