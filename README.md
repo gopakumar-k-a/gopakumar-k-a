@@ -4,14 +4,14 @@
 
 I'm a MERN Full Stack Developer dedicated to turning complex challenges into elegant front-end and back-end solutions. I specialize in:
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black) 
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) 
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) 
-- ![REST API](https://img.shields.io/badge/-REST%20API-2C3E50?style=flat&logo=api&logoColor=white)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![React](https://img.icons8.com/ios/50/000000/react.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Express.js](https://img.icons8.com/color/48/000000/express.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![REST API](https://img.icons8.com/color/48/000000/api.png)
 
 ## About Me
 
