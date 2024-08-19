@@ -4,14 +4,14 @@
 
 I'm a MERN Full Stack Developer dedicated to turning complex challenges into elegant front-end and back-end solutions. I specialize in:
 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-![React](https://img.icons8.com/ios/50/000000/react.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Express.js](https://img.icons8.com/color/48/000000/express.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![REST API](https://img.icons8.com/color/48/000000/api.png)
+<img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/typescript.png" alt="TypeScript" title="TypeScript" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" title="React" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/express.png" alt="Express.js" title="Express.js" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="50" height="50"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="REST API" title="REST API" width="50" height="50"/>
 
 ## About Me
 
