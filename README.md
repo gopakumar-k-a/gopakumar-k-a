@@ -43,11 +43,8 @@ I am excited about contributing to groundbreaking projects and driving digital t
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gopakumar-ka/)
+- 
+- [Email](mailto:gopak9145@gmail.com)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
