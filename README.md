@@ -26,13 +26,14 @@ I am proficient in:
 
 I developed an e-commerce platform called **Jersyman** for selling sports jerseys using Node.js, Express, and MongoDB. This project deepened my passion for creating seamless online experiences and enhanced my problem-solving and logical thinking abilities by integrating advanced features for security and user convenience.
 
+- [live link](https://jersy.jersyman.online)
 - [git repo](https://github.com/gopakumar-k-a/first_project)
 
 
 ### Used Market Zone
 
 Another pivotal project in my career was **Used Market Zone**, a platform that combines social media features with a dynamic marketplace for pre-owned items. Users can list products for auction or post them for regular sale, enabling direct interactions and purchases through post replies. This dual approach enriches the user experience by incorporating competitive bidding and fosters community engagement through straightforward buying and selling.
-
+- [live link](https://jersyman.online)
 - [git repo (front-end)](https://github.com/gopakumar-k-a/usedMarketZone-frontend)
 - [git repo (back-end)](https://github.com/gopakumar-k-a/usedMarketZone-backend)
 
