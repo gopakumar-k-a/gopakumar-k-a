@@ -15,7 +15,7 @@ As a self-taught MERN stack developer, I began my journey by developing a variet
 I am proficient in:
 
 - **JavaScript** and **TypeScript**
-- **React.js** for building responsive user interfaces
+- **React.js** and **Next.js** for building responsive user interfaces
 - **Node.js** and **Express.js** for developing robust back-end services
 - **MongoDB** and **SQL** for managing and querying databases
 - **REST API** design and implementation
