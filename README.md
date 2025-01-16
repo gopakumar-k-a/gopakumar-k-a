@@ -33,7 +33,7 @@ I developed an e-commerce platform called **Jersyman** for selling sports jersey
 ### Used Market Zone
 
 Another pivotal project in my career was **Used Market Zone**, a platform that combines social media features with a dynamic marketplace for pre-owned items. Users can list products for auction or post them for regular sale, enabling direct interactions and purchases through post replies. This dual approach enriches the user experience by incorporating competitive bidding and fosters community engagement through straightforward buying and selling.
-- [live link](https://jersyman.online)
+- [live link](https://umz.jersyman.online)
 - [git repo (front-end)](https://github.com/gopakumar-k-a/usedMarketZone-frontend)
 - [git repo (back-end)](https://github.com/gopakumar-k-a/usedMarketZone-backend)
 
