@@ -1,5 +1,10 @@
 # Hi there, I'm Gopakumar KA 👋
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{gopakumar-k-a}/count.svg" alt="Visitor's Count" />
+</div>
+
 **(He/Him)**
 
 I'm a MERN Full Stack Developer dedicated to turning complex challenges into elegant front-end and back-end solutions. I specialize in:
