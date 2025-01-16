@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Gopakumar+KA!;" />
 </h1>
 
-**(He/Him)**
-# Gopakumar KA
+
+# Gopakumar KA **(He/Him)**
 I'm a MERN Full Stack Developer dedicated to turning complex challenges into elegant front-end and back-end solutions. I specialize in:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,express,nodejs,react,nextjs,redux,mongodb,mysql,vite,git,aws,redis,nginx,c,cpp,tailwind,bootstrap&perline=9)](https://skillicons.dev)
