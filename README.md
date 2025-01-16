@@ -3,7 +3,7 @@
 </h1>
 
 **(He/Him)**
-
+# Hi I'm Gopakumar KA
 I'm a MERN Full Stack Developer dedicated to turning complex challenges into elegant front-end and back-end solutions. I specialize in:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,express,nodejs,react,nextjs,redux,mongodb,mysql,vite,git,aws,redis,nginx,c,cpp,tailwind,bootstrap&perline=9)](https://skillicons.dev)
