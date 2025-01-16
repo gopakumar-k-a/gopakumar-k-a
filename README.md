@@ -48,4 +48,16 @@ I am excited about contributing to groundbreaking projects and driving digital t
 - [LinkedIn](https://www.linkedin.com/in/gopakumar-ka/)
 - [Email](mailto:gopak9145@gmail.com)
 
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gopakumar-k-a&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="gopakumar-k-a's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gopakumar-k-a&theme=transparent&count_private=true&border_radius=10&locale=en" alt="gopakumar-k-a's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=gopakumar-k-a&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="gopakumar-k-a's Most Used Languages" />
+</div>
+
+<hr>
+
 
