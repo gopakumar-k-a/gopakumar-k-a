@@ -42,11 +42,25 @@ Another pivotal project in my career was **Used Market Zone**, a platform that c
 ## Looking Ahead
 
 I am excited about contributing to groundbreaking projects and driving digital transformation. This is only the beginning, and I am eager to apply my skills and passion to shape the future of technology and achieve new milestones.
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gopakumar-ka/)
 - [Email](mailto:gopak9145@gmail.com)
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopakumar-k-a&hide_progress=true&theme=dark" alt=gopakumar-k-a />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gopakumar-k-a&show_icons=true&locale=en&theme=dark" alt="gopakumar-k-a" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gopakumar-k-a&theme=dark" alt="gopakumar-k-a" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/gopakumar-k-a">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gopakumar-k-a&theme=nord_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gopakumar-k-a&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopakumar-k-a&theme=nord_dark" height="180em" />
+
+
 
 
 
